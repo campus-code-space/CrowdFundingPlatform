@@ -18,5 +18,16 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+/*    background-color: #0000AF;*/
+}
+p {
+    margin:auto;
+    width:80%
+}
+.bg-blue {
+    background-color: rgb(24,49,83);
+}
+footer {
+    background-color: rgb(24,49,83);
 }
